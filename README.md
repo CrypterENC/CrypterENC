@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" height="50%" />
-
 # 💫 About Me:
 👋 Hello, I'm Nittin Nobby Mathew<br>
 
