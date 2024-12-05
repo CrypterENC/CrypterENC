@@ -13,9 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=CrypterENC&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrypterENC/CrypterENC/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrypterENC/CrypterENC/blob/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CrypterENC/CrypterENC/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/github-snake.svg" />
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
