@@ -50,17 +50,20 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CrypterENC&theme=dracula&hide_border=false" />
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=CrypterENC&theme=dracula&hide_border=false" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="180" src="https://github-contributor-stats.vercel.app/api?username=CrypterENC&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <br/><br/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=CrypterENC&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+  
 </p>
 
 ---
@@ -68,9 +71,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CrypterENC/CrypterENC/blob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CrypterENC/CrypterENC/blob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
