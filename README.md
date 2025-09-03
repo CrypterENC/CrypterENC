@@ -64,22 +64,24 @@
 
 ---
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=CrypterENC&theme=dracula&hide_border=false" />
-  <br/><br/>
-  <img height="180" src="https://github-contributor-stats.vercel.app/api?username=CrypterENC&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <br/><br/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <br/><br/>
+  <!-- Row 1 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CrypterENC&theme=dracula&hide_border=false" width="48%" />
   
-</p>
+  <br/><br/>
+
+  <!-- Row 2 -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=CrypterENC&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+
+  <br/><br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app?username=CrypterENC&theme=dracula&column=3&margin-w=8&margin-h=8&no-bg=false&no-frame=false" width="95%" />
+
+</div>
 
 ---
 
