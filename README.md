@@ -1,27 +1,76 @@
+<h1 align="center">👋 Hey, what's up?</h1>
 
-
-# 💫 About Me:
-🔭 I’m currently working on  <br>→ Web exploitation labs, custom recon scripts, and breaking anything that looks like a login form.  <br>→ Prepping for PWPA & PWPP — turning theory into real attack chains.<br><br>🤝 I’m looking to collaborate on  <br>→ Open-source offensive tools, payload collections, or fuzzers.  <br>→ Walkthroughs of vulnerable web apps or structured bug bounty training.<br><br>🧠 I’m currently learning <br>→ Breaking auth flows, token abuse, and SSRF chaining.  <br>→ And writing cleaner, faster, meaner Python code for hacking workflows.<br><br>💬 Ask me about  <br>→ My favorite way to trigger IDORs, bypass login, or silently enumerate users.  <br>→ What it’s like to build your own lab from scratch.  <br>→ Why `Burp + Nuclei + Bash` feels like home.<br><br>⚡ Fun fact  <br>→ I learned more from hacking broken apps than from most books.  <br>→ Also, I once fuzzed a form so hard it exposed a whole admin panel. Accident? Maybe. Fun? Absolutely.<br>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CrypterENC&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CrypterENC&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrypterENC&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CrypterENC&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CrypterENC&limit=5&theme=merko&combine_all_yearly_contributions=true)
+<p align="center">
+  I'm <b>Nittin Nobby Mathew</b> — an <b>Ethical Hacker</b>, <b>Penetration Tester</b>, and <b>Malware Researcher/Developer</b>.  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CrypterENC&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me  
+
+🔹 Passionate about **offensive security** and **adversary simulation**  
+🔹 Experienced in **malware analysis, reverse engineering, and exploit development**  
+🔹 Building and testing **red team tools** to strengthen defensive strategies  
+🔹 Advocate for **responsible disclosure** and **ethical hacking**  
+
+⚡ My mission: to **understand attackers’ mindset** and use that knowledge to **defend systems and networks more effectively**.  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nittin-nobby-mathew-601a831b3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://medium.com/@idor69" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CrypterENC&theme=dracula&hide_border=false" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypterENC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <br/><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=CrypterENC&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+###
