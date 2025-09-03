@@ -1,4 +1,4 @@
-name: 🎮 Generate Pac-Man Contribution Graph
+name: Generate pacman animation
 
 on:
   schedule: # Runs every 12 hours
