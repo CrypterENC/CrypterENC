@@ -1,32 +1,5 @@
-<h1 align="center">👋 Hey, what's up?</h1>
-
-<p align="center">
-  I'm <b>Nittin Nobby Mathew</b> — an <b>Ethical Hacker</b>, <b>Penetration Tester</b>, and <b>Malware Researcher/Developer</b>.  
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-🔹 Passionate about **offensive security** and **adversary simulation**  
-🔹 Experienced in **malware analysis, reverse engineering, and exploit development**  
-🔹 Building and testing **red team tools** to strengthen defensive strategies  
-🔹 Advocate for **responsible disclosure** and **ethical hacking**  
-
-⚡ My mission: to **understand attackers’ mindset** and use that knowledge to **defend systems and networks more effectively**.  
-
----
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://media.tenor.com/McPQygGOuXYAAAAj/gladgers-hacker-gers-guardians-of-galaxy.gif" alt="Hacker gif" width="120" />
 </div>
 
 ###
@@ -46,6 +19,48 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CrypterENC&"  />
 </div>
 
+###
+
+<div align="center">
+  <p align="center">👋 Hey, what's up?</p> 
+  <p align="center">
+    I'm <b>Nittin Nobby Mathew</b> — an <b>Ethical Hacker</b>, <b>Penetration Tester</b>, and <b>Malware Researcher/Developer</b>.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>👨‍💻 About Me</h3>
+
+  <div align="left">
+    <ul>
+      <li>Passionate about <b>offensive security</b> and <b>adversary simulation</b></li>
+      <li>Experienced in <b>malware analysis, reverse engineering, and exploit development</b></li>
+      <li>Building and testing <b>red team tools</b> to strengthen defensive strategies</li>
+      <li>Advocate for <b>responsible disclosure</b> and <b>ethical hacking</b></li>
+    </ul>
+
+  <p>⚡ My mission: to <b>understand attackers’ mindset</b> and use that knowledge to <b>defend systems and networks more effectively</b>.</p>
+  </div>
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+</div>
+
+###
 
 ---
 
